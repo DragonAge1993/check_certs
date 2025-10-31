@@ -6,7 +6,7 @@
 ## Просмотреть всю открытую часть сертификата
 
 ```
-openssl x509 -in cert.pem -text -noout
+openssl x509 -in tls.crt -text -noout
 ```
 
 ## Просмотреть fingerpint
