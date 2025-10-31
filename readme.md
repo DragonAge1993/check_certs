@@ -9,7 +9,7 @@
 openssl x509 -in tls.crt -text -noout
 ```
 
-## Просмотреть fingerpint
+## Просмотреть fingerprint
 
 ```
 openssl x509 -in tls.crt -fingerprint -noout
